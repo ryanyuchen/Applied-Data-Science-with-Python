@@ -8,3 +8,5 @@ This repo consists of the specialization "Applied Data Science with Python" offe
 2 Applied Plotting, Charting & Data Representation in Python
 
 3 Applied Machine Learning in Python
+
+4 Applied Text Mining in Python
