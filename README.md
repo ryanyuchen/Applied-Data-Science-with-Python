@@ -10,3 +10,5 @@ This repo consists of the specialization "Applied Data Science with Python" offe
 3 Applied Machine Learning in Python
 
 4 Applied Text Mining in Python
+
+5 Applied Social Network Analysis in Python
